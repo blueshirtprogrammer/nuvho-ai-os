@@ -1,26 +1,29 @@
-# Agent ZERO V 2.2 - Rebrand Configuration
-# A strategic development alliance: CLAW + Agent Zero Original + Link Technologies AI OS
+# Brand Configuration - AI OS Merger
+# Agent Zero X + OpenClaw + Link Technologies
 
 [brand]
-name = "Agent ZERO V 2.2"
-short_name = "AZ-X"
-tagline = "Beast Mode from All Worlds"
+# EDIT THIS TO CHANGE THE NAME
+# Options: "Apex AI OS", "Titan AI OS", "ZeroClaw", "A0X", "Nexus AI OS"
+name = "Apex AI OS"
+short_name = "Apex"
+tagline = "The Apex Predator of AI Assistants"
 
 [credits]
 founder = "Joshua Goodlock"
 lead_developer = "Joshua Goodlock"
 original_team_size = 36
 strategic_alliance = "Link Technologies AI OS"
-based_on = ["CLAW", "Agent Zero Original"]
+merger_partners = ["Agent Zero Original", "OpenClaw", "Link Technologies"]
+based_on = ["CLAW (OpenClaw)", "Agent Zero", "Link Technologies AI OS"]
 
 [urls]
-website = "https://agentzerox.ai"
-docs = "https://docs.agentzerox.ai"
-github = "https://github.com/blueshirtprogrammer/agent-zero-x"
-discord = "https://discord.gg/agentzerox"
+website = "https://apexaios.dev"
+docs = "https://docs.apexaios.dev"
+github = "https://github.com/blueshirtprogrammer/apex-ai-os"
+discord = "https://discord.gg/apexaios"
 
 [docker]
-image = "blueshirtprogrammer/agent-zero-x"
+image = "blueshirtprogrammer/apex-ai-os"
 org = "blueshirtprogrammer"
 
 [colors]
